@@ -1,4 +1,5 @@
-iOS-Install_Homolog
-===================
+Instaladores iPad
+=======
 
-Instaladores do Ambiente de Homologacao
+Install iPad SalesFarma
+Install iPad SalesDriver
