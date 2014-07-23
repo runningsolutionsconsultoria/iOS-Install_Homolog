@@ -11,13 +11,13 @@
 					<key>kind</key>
 					<string>software-package</string>
 					<key>url</key>
-					<string>http://app.salesdriver.com.br/CustomerFolder/HYPER/SalesDriver/app/ipad/salesdriver.ipa</string>
+					<string>http://homolog.salesdriver.com.br/CustomerFolder/HYPER/SalesDriver/app/ipad/salesdriver.ipa</string>
 				</dict>
 			</array>
 			<key>metadata</key>
 			<dict>
 				<key>bundle-identifier</key>
-				<string>hypermarcas.y2013.br.com.salesdriver</string>
+				<string>br.com.salesdriver</string>
 				<key>bundle-version</key>
 				<string>1.0.1</string>
 				<key>kind</key>
