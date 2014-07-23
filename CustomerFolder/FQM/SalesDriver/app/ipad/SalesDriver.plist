@@ -11,13 +11,13 @@
 					<key>kind</key>
 					<string>software-package</string>
 					<key>url</key>
-					<string>http://app.salesdriver.com.br/m/salesdriver.ipa</string>
+					<string>http://homolog.salesdriver.com.br/m/salesdriver.ipa</string>
 				</dict>
 			</array>
 			<key>metadata</key>
 			<dict>
 				<key>bundle-identifier</key>
-				<string>com.br.salesdriver.precall</string>
+				<string>com.br.salesdriver</string>
 				<key>bundle-version</key>
 				<string>1.0.1</string>
 				<key>kind</key>
